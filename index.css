@@ -1,0 +1,29 @@
+img{
+  display: block;
+  width: 100%}
+a{
+  display: block;
+  width: 35%;
+  font-size:20px;
+color: purple;
+background-color: grey;
+padding: 10px;text-align: left;border: 2px solid black;
+}
+h1, h2, h3{
+  color: red
+} 
+li{
+  color: white
+}
+html{
+  background-color: black
+}
+code{
+  color: white
+}
+@media screens and (max-width: 600px){
+  #navbar{
+    float: left
+  }
+
+}
